@@ -15,6 +15,7 @@ I build AI automations that don't break: quote desks, lead intake, CRM workflows
 | Project | What it does | Stack |
 |---|---|---|
 | [Air Cargo Quote Assistant](https://github.com/leofreitas-dev/air-cargo-quote-assistant) | Reads air cargo quote emails with AI, prices them in tested code, and waits for a human to approve every reply. Runs without an API key. | TypeScript, n8n, Claude |
+| [Velox (case study)](https://github.com/leofreitas-dev/velox-case-study) | An AI team that works 24/7 inside Mercado Livre stores: 26 AI agents, 30 rule robots, n8n automations and a pixel-art HQ that shows each agent live. The code is private; the whole system is for sale. | TypeScript, PostgreSQL, React, n8n, Claude |
 
 ## How I work
 
